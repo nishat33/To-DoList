@@ -1,2 +1,3 @@
-This is a php project
-We're designing a to-dolist app
+
+We are doing a php project.
+
